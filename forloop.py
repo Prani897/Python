@@ -20,3 +20,4 @@ for i in price:
 print("Total is" , x)
 
 
+  
